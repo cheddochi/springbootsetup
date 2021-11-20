@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "40CD61DBC478A5B1230F273B"
+               BuildableName = "NativeAppStudy.app"
+               BlueprintName = "NativeAppStudy (iOS)"
+               ReferencedContainer = "container:NativeAppStudy.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "40CD61DBC478A5B1230F273B"
+            BuildableName = "NativeAppStudy.app"
+            BlueprintName = "NativeAppStudy (iOS)"
+            ReferencedContainer = "container:NativeAppStudy.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
